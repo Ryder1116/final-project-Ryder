@@ -9,8 +9,8 @@ It demonstrates the core functionalities proposed in our group project.
 - Basic system functionalities implemented
 
 ## Live Demo
-https://你的帳號.github.io/你的repo名稱/
-
+ https://ryder1116.github.io/final-project-Ryder/
+ 
 ## Technologies Used
 - HTML
 - CSS
